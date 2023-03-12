@@ -1,7 +1,7 @@
 /*
  * Реализуйте алгоритм сортировки пузырьком числового массива, результат после каждой итерации запишите в лог-файл.
 */
-package Homework2;
+
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.Random;
